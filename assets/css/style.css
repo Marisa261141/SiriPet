@@ -461,31 +461,37 @@ section {
 /*-Backgroud each Section-*/
 .about {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #E3EBFD;*/
 }
 
 .services {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #ebfdf5;*/
 }
 
 .pricing {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #f1e3d8;*/
 }
 
 .portfolio {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #DDD8D2;*/
 }
 
 .contact {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #DEE2EB;*/
 }
 
 .map {
   background-image: url("../img_siri/siri3.jpg");
+  background-size: 100% 100%;
   /*background: #E8E8E9;*/
 }
 /*-End Backgroud each Section-*/
