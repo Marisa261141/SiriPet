@@ -460,38 +460,38 @@ section {
 --------------------------------------------------------------*/
 /*-Backgroud each Section-*/
 .about {
-  /*-background-image: url('พื้นหลัง.jpg');*/
-  background: #E3EBFD;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #E3EBFD;*/
 }
 
 .services {
-  /*-background-image: url("BG.jpg");*/
-  background: #ebfdf5;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #ebfdf5;*/
 }
 
 .pricing {
-  /*-background-image: url("paper.gif");-*/
-  background: #f1e3d8;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #f1e3d8;*/
 }
 
 .portfolio {
-  /*-background-image: url("paper.gif");-*/
-  background: #DDD8D2;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #DDD8D2;*/
 }
 
 .contact {
-  /*-background-image: url("paper.gif");-*/
-  background: #DEE2EB;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #DEE2EB;*/
 }
 
 .map {
-  /*-background-image: url("paper.gif");-*/
-  background: #E8E8E9;
+  background-image: url("../img_siri/พื้นหลัง3.jpg");
+  /*background: #E8E8E9;*/
 }
 /*-End Backgroud each Section-*/
 
 .about .content {
-  background-color: #DCDBD9;
+  background-color: #e9d4b3;
   padding: 40px;
 }
 .about h3 {
@@ -829,7 +829,7 @@ section {
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 40px 20px;
-  background: #FAF0E6;
+  background: #e7cdc7;
   text-align: center;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   border-radius: 4px;
