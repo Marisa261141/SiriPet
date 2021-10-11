@@ -802,8 +802,6 @@ section {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   border-radius: 4px;
   position: relative;
-  width: 270px;
-  height: 600px;
   overflow: hidden;
   transition: 0.3s;
 }
