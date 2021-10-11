@@ -460,39 +460,39 @@ section {
 --------------------------------------------------------------*/
 /*-Backgroud each Section-*/
 .about {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #E3EBFD;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 
 .services {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #ebfdf5;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 
 .pricing {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #f1e3d8;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 
 .portfolio {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #DDD8D2;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 
 .contact {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #DEE2EB;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 
 .map {
-  background-image: url("../img_siri/siri3.jpg");
-  background-size: 100% 100%;
-  /*background: #E8E8E9;*/
+  /*background-image: url("../img_siri/siri3.jpg");*/
+  /*background-size: 100% 100%;*/
+  background: #DDD8D2;
 }
 /*-End Backgroud each Section-*/
 
