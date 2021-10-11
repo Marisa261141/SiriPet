@@ -460,33 +460,33 @@ section {
 --------------------------------------------------------------*/
 /*-Backgroud each Section-*/
 .about {
-  /*-background-image: url("paper.gif");-*/
-  background: #F08080;
+  /*background-image: url("assets/img_siri/BG.jpg");*/
+  background: #E3EBFD;
 }
 
 .services {
-  /*-background-image: url("paper.gif");-*/
-  /*background: #F08080;-*/
+  /*-background-image: url("BG.jpg");*/
+  background: #ebfdf5;
 }
 
 .pricing {
   /*-background-image: url("paper.gif");-*/
-  /*background: #F08080;-*/
+  background: #f1e3d8;
 }
 
 .portfolio {
   /*-background-image: url("paper.gif");-*/
-  /*background: #F08080;-*/
+  background: #DDD8D2;
 }
 
 .contact {
   /*-background-image: url("paper.gif");-*/
-  /*background: #F08080;-*/
+  background: #DEE2EB;
 }
 
 .map {
   /*-background-image: url("paper.gif");-*/
-  /*background: #F08080;-*/
+  background: #E8E8E9;
 }
 /*-End Backgroud each Section-*/
 
