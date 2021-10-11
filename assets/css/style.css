@@ -458,6 +458,38 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+/*-Backgroud each Section-*/
+.about {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+
+.services {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+
+.pricing {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+
+.portfolio {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+
+.contact {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+
+.map {
+  /*-background-image: url("paper.gif");-*/
+  /*background: #F08080;-*/
+}
+/*-End Backgroud each Section-*/
+
 .about .content {
   background-color: #DCDBD9;
   padding: 40px;
