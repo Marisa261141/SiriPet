@@ -460,7 +460,7 @@ section {
 --------------------------------------------------------------*/
 /*-Backgroud each Section-*/
 .about {
-  /*background-image: url("assets/img_siri/BG.jpg");*/
+  /*-background-image: url('พื้นหลัง.jpg');*/
   background: #E3EBFD;
 }
 
